@@ -1,0 +1,1 @@
+#micrograd tutorial / andrej karpathy
